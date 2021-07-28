@@ -1,3 +1,3 @@
 # SCADA
 
-A SCADA system for industrial furnaces
+A SCADA system made with framework Qt for industrial furnaces
